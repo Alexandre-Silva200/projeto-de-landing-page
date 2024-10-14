@@ -63,12 +63,13 @@ header{
     color: var(--main-color);
 }
 
-.header .icons{
+.header-icons{
     display: flex;
     align-items: center;
 }
 
 #menu{
+    display: none;
     font-size: 35px;
     color: var(--text-color);
     z-index: 10001;
