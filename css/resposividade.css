@@ -20,7 +20,12 @@
         margin-left: 3rem;
     }
 
+    
+.home-text h1{
+    font-size: 40px;
+}
+
     .main{
-        margin-top: -30%;
+        margin-top: -18%;
     }
 }
